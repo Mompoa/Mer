@@ -1,0 +1,15 @@
+{
+  "name": "nebulous-blob-wars",
+  "version": "1.0.0",
+  "description": "Nebulous.io clone - multiplayer blob game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
